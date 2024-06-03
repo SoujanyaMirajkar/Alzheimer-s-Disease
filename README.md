@@ -1,4 +1,4 @@
-# Alzheimer-s-Disease
+# Alzheimer's Disease 
 ## INTRODUCTION
 Data Analysis on Alzheimer's Disease Prediction. 
 The dataset offers a multitude of analytical avenues for understanding Alzheimer’s
