@@ -22,5 +22,6 @@ analyses related to prevalence, demographics, confidence intervals, and geograph
 variations. Researchers could explore trends, correlations, and patterns to gain insights into the impact of Alzheimer’s on different populations.It consists of 250937
 instances and 16 columns.The memory usage is 30.6+ MB with data types float64,
 int64, object.
+
 LINK : : https://www.kaggle.com/datasets/amitvkulkarni/aging-and-memoryalzheimers-statistics
 
