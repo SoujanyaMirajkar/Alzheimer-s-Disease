@@ -27,4 +27,4 @@ LINK : : https://www.kaggle.com/datasets/amitvkulkarni/aging-and-memoryalzheimer
 
 # Portfolio
 
-Visit my portfolio [here]([https://your-google-site-link](https://sites.google.com/kletech.ac.in/soujanya-portfolio/home).
+Visit my portfolio [here]([https://your-google-site-link](https://sites.google.com/kletech.ac.in/soujanya-portfolio/home)).
